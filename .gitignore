@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# Project file
+.vs/
+cmake*/
+.idea/
+shadow/lib/*
